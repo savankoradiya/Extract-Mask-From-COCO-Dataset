@@ -1,6 +1,6 @@
 # Extract Segmentation Mask From COCO Dataset
 
-##Install cocoapi
+## Install cocoapi
 
 ```
 git clone https://github.com/philferriere/cocoapi.git
