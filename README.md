@@ -6,6 +6,6 @@
 git clone https://github.com/philferriere/cocoapi.git
 cd cocoapi/PythonAPI
 make
-sudo make install
+python3 setup.py build_ext --inplace
 
 ```
